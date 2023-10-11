@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-practico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmolinap2/CONSUMO-API-PRACTICO.git"
+  },
+  "author": "Yisus mp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmolinap2/CONSUMO-API-PRACTICO/issues"
+  },
+  "homepage": "https://github.com/jmolinap2/CONSUMO-API-PRACTICO#readme"
+}
